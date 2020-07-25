@@ -1,0 +1,7 @@
+{
+    "hedera": {
+        "mirrorNodeAddress": "hcs.testnet.mirrornode.hedera.com:5600",
+        "operatorPrivateKey": "302e020100300506032b6570042204209a32d6a9b9ba1e5f17a8fbe5dccdef1adb7c648c2857f24b5e0183c432574d22",
+        "operatorAccount": "0.0.43013"
+    }
+}
